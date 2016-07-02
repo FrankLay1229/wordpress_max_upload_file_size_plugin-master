@@ -43,4 +43,3 @@ This plugin increase upload size limit up to 250Mb and more.
 
 Any problem, just mail us. email- looklikeme05@gmail.com  ,ashutosh2432@gmail.com
 
-123
